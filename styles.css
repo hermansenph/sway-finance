@@ -1,23 +1,26 @@
 body {
   background-color: #eee;
+  margin: auto;
 }
 
 header {
   background-color: #1e2433;
-  padding-top: 1.2vw;
-  padding-bottom: 1.2vw;
-  margin-left: 4vw;
-  margin-right: 4vw;
+  padding-top: 2vw;
+  padding-bottom: 2vw;
+  margin-left: 7vw;
+  margin-right: 7vw;
 }
 
 div {
   text-align: right;
-  margin-left: 5vw;
-  margin-right: 5vw;
+  margin-left: 10vw;
+  margin-right: 10vw;
 }
 
 .thinnav {
   font-family: 'Source Sans Pro';
+  font-size: 0.9vw;
+  font-weight: 300;
   color: #a3a5ab;
   text-decoration: none;
   margin-left: 0.5vw;
