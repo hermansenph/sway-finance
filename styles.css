@@ -1,0 +1,45 @@
+body {
+  background-color: #eee;
+  margin: auto;
+}
+
+header {
+  background-color: #1e2433;
+  margin-left: 7vw;
+  margin-right: 7vw;
+}
+
+div {
+  text-align: right;
+  margin-left: 0;
+  margin-right: 10vw;
+  padding-bottom: 2vw;
+  padding-top: 1vw;
+}
+
+.thinnav {
+  font-family: 'Source Sans Pro';
+  font-size: 1vw;
+  font-weight: 300;
+  color: #a3a5ab;
+  text-decoration: none;
+  margin-left: 0.7vw;
+  margin-right: 0.7vw;
+}
+
+#signup {
+  font-family: 'Source Sans Pro';
+  text-decoration: none;
+  color: #fff;
+  font-size: 0.9vw;
+  background-color: #3eca7f;
+  padding: 0.7vw 1.65vw;
+  border-radius: 0.2vw;
+  margin-left: 1.4vw;
+}
+
+#swaylogo2 {
+  height: 3vw;
+  margin-right: 39.5vw;
+  margin-bottom: -1vw;
+}
