@@ -19,7 +19,7 @@ div {
 
 .thinnav {
   font-family: 'Source Sans Pro';
-  font-size: 0.9vw;
+  font-size: 1vw;
   font-weight: 300;
   color: #a3a5ab;
   text-decoration: none;
@@ -36,4 +36,11 @@ div {
   padding: 0.7vw 1.65vw;
   border-radius: 0.2vw;
   margin-left: 1.4vw;
+}
+
+#swaylogo2 {
+  height: 3vw;
+  position: absolute;
+  top: 1vw;
+  left: 17vw;
 }
