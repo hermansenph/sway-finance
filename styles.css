@@ -5,16 +5,16 @@ body {
 
 header {
   background-color: #1e2433;
-  padding-top: 2vw;
-  padding-bottom: 2vw;
   margin-left: 7vw;
   margin-right: 7vw;
 }
 
 div {
   text-align: right;
-  margin-left: 10vw;
+  margin-left: 0;
   margin-right: 10vw;
+  padding-bottom: 2vw;
+  padding-top: 1vw;
 }
 
 .thinnav {
@@ -40,7 +40,6 @@ div {
 
 #swaylogo2 {
   height: 3vw;
-  position: absolute;
-  top: 1vw;
-  left: 17vw;
+  margin-right: 39.5vw;
+  margin-bottom: -1vw;
 }
