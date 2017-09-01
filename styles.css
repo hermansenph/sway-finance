@@ -1,7 +1,11 @@
+body {
+  background-color: #eee;
+}
+
 header {
-  background-color: #333;
-  padding-top: 1vw;
-  padding-bottom: 1vw;
+  background-color: #1e2433;
+  padding-top: 1.2vw;
+  padding-bottom: 1.2vw;
   margin-left: 4vw;
   margin-right: 4vw;
 }
@@ -14,7 +18,7 @@ div {
 
 .thinnav {
   font-family: 'Source Sans Pro';
-  color: #aaa;
+  color: #a3a5ab;
   text-decoration: none;
   margin-left: 0.5vw;
   margin-right: 0.5vw;
