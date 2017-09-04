@@ -5,16 +5,32 @@ body {
 
 header {
   background-color: #1e2433;
-  margin-left: 7vw;
-  margin-right: 7vw;
+  margin: 0 7vw;
 }
 
-div {
+nav {
   text-align: right;
   margin-left: 0;
   margin-right: 10vw;
   padding-bottom: 2vw;
   padding-top: 1vw;
+}
+
+#emailsection {
+  background-color: #1e2433;
+  margin: 0 7vw;
+  padding: 0 10vw;
+  height: 45vw;
+}
+
+#textbuttons {
+  width: 30vw;
+  float: left;
+}
+
+#playvideo {
+  position: relative;
+  float: left;
 }
 
 .thinnav {
@@ -28,7 +44,7 @@ div {
 }
 
 #signup {
-  font-family: 'Source Sans Pro';
+  font-family: 'Titillium Web';
   text-decoration: none;
   color: #fff;
   font-size: 0.9vw;
@@ -42,4 +58,70 @@ div {
   height: 3vw;
   margin-right: 39.5vw;
   margin-bottom: -1vw;
+}
+
+#boldcompany {
+  display: inline-block;
+  margin: auto;
+  padding: 12vw 0 0.4vw;
+  font-family: 'Titillium Web';
+  font-size: 2.75vw;
+  color: White;
+  line-height: 3vw;
+  width: 30vw;
+}
+
+#thinbusiness {
+  display: inline-block;
+  font-family: 'Source Sans Pro';
+  font-size: 1.25vw;
+  font-weight: 300;
+  color: rgb(209, 210, 213);
+  width: 26vw;
+  line-height: 2vw;
+  padding-bottom: 0.5vw;
+}
+
+#email {
+  width: 17vw;
+  height: 2.2vw;
+  border-radius: 0.2vw 0 0 0.2vw;
+  border: rgb(209, 210, 213) solid 0.05vw;
+  font-family: 'Source Sans Pro';
+  font-size: 0.8vw;
+  font-weight: 300;
+  color: #777;
+  padding: 0.1vw 1vw;
+}
+
+#signup2 {
+  font-family: 'Titillium Web';
+  text-decoration: none;
+  color: #fff;
+  font-size: 0.9vw;
+  background-color: #3eca7f;
+  padding: 0.48vw 3.5vw 0.7vw;
+  border-radius: 0 0.2vw 0.2vw 0;
+  margin-left: 0.6vw;
+}
+
+button {
+  border-style: none;
+}
+
+#play {
+  position: absolute;
+  z-index: 1;
+  width: 6vw;
+  top: 17vw;
+  right: 9vw;
+}
+
+#fakevideo {
+  position: relative;
+  width: 32vw;
+  top: 9vw;
+  right: -4vw;
+  border-radius: 0.3vw;
+  z-index: 0;
 }
