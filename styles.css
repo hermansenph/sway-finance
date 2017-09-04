@@ -16,11 +16,21 @@ nav {
   padding-top: 1vw;
 }
 
-div {
+#emailsection {
   background-color: #1e2433;
   margin: 0 7vw;
   padding: 0 10vw;
   height: 45vw;
+}
+
+#textbuttons {
+  width: 30vw;
+  float: left;
+}
+
+#playvideo {
+  position: relative;
+  float: left;
 }
 
 .thinnav {
@@ -97,4 +107,21 @@ div {
 
 button {
   border-style: none;
+}
+
+#play {
+  position: absolute;
+  z-index: 1;
+  width: 6vw;
+  top: 17vw;
+  right: 9vw;
+}
+
+#fakevideo {
+  position: relative;
+  width: 32vw;
+  top: 9vw;
+  right: -4vw;
+  border-radius: 0.3vw;
+  z-index: 0;
 }
