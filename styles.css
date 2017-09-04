@@ -135,13 +135,26 @@ button {
 }
 
 .col-3 {
-  display: inline-block;
+  float: left;
   box-sizing: border-box;
   border: #eee solid 0.07vw;
   background-color: White;
   border-radius: 0.2vw;
   height: 16.4vw;
   width: 21vw;
-  margin-left: 1.2vw;
+  margin-left: 1.25vw;
   box-shadow: 0 0.1vw 0.2vw #eee;
+  padding: 2.1vw 2.2vw;
+}
+
+.blueb {
+  background-color: rgb(62, 124, 201);
+  width: 2.8vw;
+  height: 2.8vw;
+  border-radius: 0.2vw;
+}
+
+.icon {
+  width: 50%;
+  padding: 25%;
 }
