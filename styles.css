@@ -83,3 +83,18 @@ div {
   color: #777;
   padding: 0.1vw 1vw;
 }
+
+#signup2 {
+  font-family: 'Titillium Web';
+  text-decoration: none;
+  color: #fff;
+  font-size: 0.9vw;
+  background-color: #3eca7f;
+  padding: 0.48vw 3.5vw 0.7vw;
+  border-radius: 0 0.2vw 0.2vw 0;
+  margin-left: 0.6vw;
+}
+
+button {
+  border-style: none;
+}
