@@ -51,9 +51,21 @@ div {
 }
 
 #boldcompany {
+  display: inline-block;
   margin: auto;
   padding: 10vw 0 0;
   font-family: 'Titillium Web';
-  font-size: 2.5vw;
+  font-size: 2.75vw;
   color: White;
+  line-height: 3vw;
+  width: 30vw;
+}
+
+#thinbusiness {
+  display: inline-block;
+  font-family: 'Source Sans Pro';
+  font-size: 1.2vw;
+  font-weight: 300;
+  color: rgb(209, 210, 213);
+  width: 25vw;
 }
