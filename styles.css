@@ -129,6 +129,19 @@ button {
 #productfeatures {
   background-color: rgb(248, 249, 253);
   margin: 0 7vw;
-  padding: 0 10vw;
   height: 28vw;
+  box-sizing: border-box;
+  padding: 5.7vw 8.9vw;
+}
+
+.col-3 {
+  display: inline-block;
+  box-sizing: border-box;
+  border: #eee solid 0.07vw;
+  background-color: White;
+  border-radius: 0.2vw;
+  height: 16.4vw;
+  width: 21vw;
+  margin-left: 1.2vw;
+  box-shadow: 0 0.1vw 0.2vw #eee;
 }
