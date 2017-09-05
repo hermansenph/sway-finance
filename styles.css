@@ -172,3 +172,68 @@ h3 {
   line-height: 1.4em;
   color: #888;
 }
+
+#slackdemo {
+  background-color: rgb(248, 249, 253);
+  margin: 0 7vw;
+  height: 45vw;
+  padding-top: 5vw;
+  box-sizing: border-box;
+}
+
+#slackdesc {
+  height: 20vw;
+  width: 25vw;
+  margin-left: 14vw;
+  display: inline-block;
+  position: relative;
+  bottom: 7vw;
+}
+
+#slackhead {
+  font-family: 'Titillium Web';
+  font-size: 2.5em;
+  font-weight: 500;
+  margin: 1.5vw 0.3vw 1.2vw;
+}
+
+#slacktext {
+  font-family: 'Source Sans Pro';
+  font-size: 2em;
+  font-weight: 300;
+  line-height: 1.4em;
+  color: #888;
+  margin-top: auto;
+  margin-left: 0.3vw;
+  margin-bottom: 2vw;
+  width: 24vw;
+}
+
+#signup3 {
+  font-family: 'Titillium Web';
+  text-decoration: none;
+  color: #fff;
+  font-size: 0.9vw;
+  background-color: #3eca7f;
+  border-radius: 0.2vw;
+  padding: 0.5vw 1.5vw;
+  margin-left: 0.3vw;
+}
+
+#slackimg {
+  margin: auto;
+  position: relative;
+  left: 3vw;
+  width: 45vw;
+}
+
+#cutoff {
+  display: inline-block;
+  position: relative;
+  top: 3vw;
+  left: 1.85vw;
+  margin: 0;
+  max-width: 1600px;
+  max-height: 2000px;
+  overflow: hidden;
+}
