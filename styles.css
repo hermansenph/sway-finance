@@ -178,13 +178,29 @@ h3 {
   margin: 0 7vw;
   height: 45vw;
   padding-top: 15vw;
+  box-sizing: border-box;
 }
 
 #slackdesc {
-  border: #eee solid 0.07vw;
-  background-color: White;
-  border-radius: 0.2vw;
-  height: 15vw;
+  height: 17vw;
   width: 25vw;
   margin-left: 14vw;
+}
+
+#slackhead {
+  font-family: 'Titillium Web';
+  font-size: 2.5em;
+  font-weight: 500;
+  margin: 1.5vw 0.3vw 1.2vw;
+}
+
+#slacktext {
+  font-family: 'Source Sans Pro';
+  font-size: 2em;
+  font-weight: 300;
+  line-height: 1.4em;
+  color: #888;
+  margin-top: auto;
+  margin-left: 0.3vw;
+  width: 24vw;
 }
