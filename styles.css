@@ -182,7 +182,7 @@ h3 {
 }
 
 #slackdesc {
-  height: 17vw;
+  height: 20vw;
   width: 25vw;
   margin-left: 14vw;
 }
@@ -202,5 +202,17 @@ h3 {
   color: #888;
   margin-top: auto;
   margin-left: 0.3vw;
+  margin-bottom: 2vw;
   width: 24vw;
+}
+
+#signup2 {
+  font-family: 'Titillium Web';
+  text-decoration: none;
+  color: #fff;
+  font-size: 0.9vw;
+  background-color: #3eca7f;
+  border-radius: 0.2vw;
+  padding: 0.5vw 1.5vw;
+  margin-left: 0.3vw;
 }
